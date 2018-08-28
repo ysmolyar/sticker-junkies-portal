@@ -6,13 +6,15 @@ import { routing } from './app.routing';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { MainAppComponent } from './main-app/main-app.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
+import { SideBarComponent } from './components/side-bar/side-bar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
     MainAppComponent,
-    HomePageComponent
+    HomePageComponent,
+    SideBarComponent
   ],
   imports: [
     BrowserModule,
