@@ -1,5 +1,5 @@
 .navbar {
-  background-color: darkslategray;
+  background-color: #212529;
 }
 li {
   list-style: none;
@@ -15,7 +15,7 @@ li {
 }
 .navbar .nav-item > a {
   color: #999;
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 .navbar .nav-item > a:hover {
