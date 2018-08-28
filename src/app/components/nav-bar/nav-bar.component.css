@@ -15,7 +15,9 @@ li {
 }
 .navbar .nav-item > a {
   color: #999;
+  font-size: 1.3em;
 }
+
 .navbar .nav-item > a:hover {
   color: #fff;
 }
